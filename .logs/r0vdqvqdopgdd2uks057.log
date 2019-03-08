@@ -1,0 +1,1 @@
+{"check":{"id":"r0vdqvqdopgdd2uks057","protocol":"https","url":"duckduckgo.com","method":"post","successCodes":[200],"timeoutSeconds":2,"userPhone":"1234567890","state":"up","lastChecked":1552079081714},"outcome":{"error":false,"responseCode":200},"state":"up","alert":false,"time":1552079594419}
